@@ -1,7 +1,4 @@
-### https://buymeacoffee.com/vivekneupaw/e/362824
-![SUPPORT ME HERE](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRM0N-xdJuD9rE4I82SH2b463jtSrs1ECPiUmSdiM5M8X9RuULYAd84ERHJN_Ve69BFIHzbEqPCCHFP5873QVlu0fP7UEGDVTBiosd9MA)
-
-# Book Reading App
+# BookVerse
 
 [![Next.js](https://img.shields.io/badge/Next.js-12.0.8-blue.svg)](https://nextjs.org/) [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE.md)
 
@@ -9,20 +6,16 @@ A web application that enhances the reading experience by allowing users to inte
 
 ## Demo
 
-You can check out the live demo of the Book Reading App [here](https://book-website-nextjs-nh5jvrwtr-vivekneupane11.vercel.app/).
+You can check out the live demo of **BookVerse** [here](https://bookverse.vercel.app/).
 
-![BOOK READER APP](https://raw.githubusercontent.com/vivekneupane11/book-website-nextjs/refs/heads/main/Screenshot%202024-09-25%20at%2023.28.09.png)
-
-## Video Tutorial
-
-You can watch a tutorial on how to create this app [here](https://www.youtube.com/watch?v=kZVt_OmD-tI).
+![BOOKVERSE APP](https://raw.githubusercontent.com/reosaurous172214/book-verse/main/screenshot.png)
 
 ## Features
 
 - 📚 Displaying Books
 - ✍️ Highlighting text
 - 🔤 Making text bold
-- 📝 Add sticky notes to the book contents
+- 📝 Adding sticky notes to book contents
 - ✨ Medium-like features
 - 🎨 Creating highlights in ReactJS
 - 💡 ReactJS highlighter
@@ -41,13 +34,13 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/vivekneupane11/book-website-nextjs.git
+   git clone https://github.com/reosaurous172214/book-verse.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd book-website-nextjs
+   cd book-verse
    ```
 
 3. Install the dependencies:
@@ -81,7 +74,7 @@ Here are some useful scripts you can run:
 ## Project Structure
 
 ```
-book-website-nextjs/
+book-verse/
 ├── pages/            # Next.js pages
 ├── components/       # React components
 ├── public/           # Static files
@@ -107,11 +100,10 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 If you have any questions or suggestions, feel free to reach out through my social media:
 
-✨ [Twitter](https://www.youtube.com/channel/UCJoQhaR1_Gx8dpeZdrCCXsg)  
-✨ [YouTube](https://www.youtube.com/channel/UCJoQhaR1_Gx8dpeZdrCCXsg)  
-✨ [LinkedIn](https://www.linkedin.com/in/vivek-neupane-b99259194/)  
+✨ [Twitter](https://twitter.com/your-profile)  
+✨ [YouTube](https://www.youtube.com/channel/your-channel)  
+✨ [LinkedIn](https://www.linkedin.com/in/your-profile/)  
 
 ## Video Tutorial
 
 You can watch a tutorial on how to create this app [here](https://www.youtube.com/watch?v=kZVt_OmD-tI).
-
